@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+    --color-rosa: #BD6267;
+    --color-azul-claro: #5B4C97;
+    --color-azul: #1C3CA1;
+    --color-azul-dark: #031544;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    background-image: radial-gradient(circle at 25.82% -16.45%, #e459ea 0, #c84ded 16.67%, #a543f0 33.33%, #783cf2 50%, #2638f4 66.67%, #0039f5 83.33%, #003af6 100%);
+}
